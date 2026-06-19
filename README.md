@@ -2,18 +2,16 @@
 
 A collection of my write-ups and study notes for selected CryptoHack challenges.
 
-This repository documents my solutions to CryptoHack tasks, with an emphasis on understanding the underlying cryptographic ideas rather than only obtaining the final flag. Most write-ups include a short explanation of the challenge, the attack intuition, and a Python implementation of the solution.
+This repository contains my solutions to CryptoHack tasks and short notes on the cryptographic ideas behind them. The goal is not only to solve the challenge, but also to understand why the attack works, what assumption breaks, and how the same idea appears in real-world cryptography.
 
-## Scope
-
-The repository focuses on hands-on practice with:
+## Focus areas
 
 - symmetric cryptography
 - RSA
 - elliptic curves
 - hash functions
 - Diffie-Hellman
-- common cryptographic implementation pitfalls
+- protocol and implementation weaknesses
 
 ## Structure
 
@@ -27,20 +25,18 @@ cryptohack-writeups/
 └── misc/
 ```
 
-Each directory contains challenge-specific notes and solution scripts.
+Each challenge folder may include:
+- a short write-up in Markdown
+- a Python solution script
+- brief notes on the underlying cryptographic concept
 
-## Goals
+## Purpose
 
-- practice applied cryptography through hands-on problem solving
-- build a structured set of notes on common attacks and techniques
-- improve confidence with Python implementations of cryptographic ideas
-- document progress in a clear and reusable form
+This repository is a study log for hands-on cryptography practice and a place to keep structured notes on attacks, weaknesses, and problem-solving approaches.
 
-## Notes
+## Disclaimer
 
-These write-ups are intended as personal study notes and practice material.
-
-Challenge statements and platform content belong to CryptoHack, so this repository only includes original explanations, code, and commentary.
+Challenge statements and platform materials belong to CryptoHack. This repository contains only original explanations, notes, and solution code.
 
 ## License
 
