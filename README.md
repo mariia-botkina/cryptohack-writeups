@@ -2,7 +2,7 @@
 
 A collection of my write-ups and study notes for selected CryptoHack challenges.
 
-This repository contains my solutions to CryptoHack tasks and short notes on the cryptographic ideas behind them. The goal is not only to solve the challenge, but also to understand why the attack works, what assumption breaks, and how the same idea appears in real-world cryptography.
+This repository will gradually be filled with notes, explanations, and Python solutions for CryptoHack tasks, with a focus on understanding the underlying cryptographic ideas.
 
 ## Focus areas
 
